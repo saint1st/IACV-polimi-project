@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="imgs/banner1.png" alt="Project Banner" width="100%"/>
+</p>
 
-
-# 🌀 Motion-Blurred Object Detection
+# Motion-Blurred Object Detection
 
 **Politecnico di Milano** — *IACV Course Project*
 **Project Topic F09:** Object detection in motion-blurred images
@@ -10,7 +12,7 @@
 
 ---
 
-## 🧠 Introduction
+## Introduction
 
 Motion blur occurs when objects move relative to a camera during exposure, creating streaked, semi-transparent images that hinder object detection. This is problematic in fields like autonomous driving, video surveillance, and robotics.
 
@@ -88,7 +90,7 @@ Using the assumption of a constant object intensity \(F\), the matte becomes:
 
 ---
 
-## 🧪 Experimental Results
+## Experimental Results
 
 ### Dataset
 
@@ -104,7 +106,7 @@ Using the assumption of a constant object intensity \(F\), the matte becomes:
 </p>
 
 
-### 🎯 Outcome
+### Outcome
 
 - Robust trajectory estimation despite shadows
 - Accurate object detection using alpha-based segmentation
