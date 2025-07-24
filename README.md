@@ -2,8 +2,8 @@
 
 # 🌀 Motion-Blurred Object Detection
 
-**Politecnico di Milano** — *IACV Course Project*\
-**Project Topic F09:** Object detection in motion-blurred images\
+**Politecnico di Milano** — *IACV Course Project*
+**Project Topic F09:** Object detection in motion-blurred images
 
 [🔗 Course Website](https://magrilu.github.io/iacv/)\
 [📄 Related Paper](https://link.springer.com/article/10.1007/s11263-008-0165-1)
@@ -97,9 +97,11 @@ Using the assumption of a constant object intensity \(F\), the matte becomes:
 
 ### 📷 Visual Examples
 
-- <div align="center"><img src="imgs/experimental_result_1.png" width="400"/><div>
-- <div align="center"><img src="imgs/experimental_result_5.png" width="400"/><div>
-- <div align="center"><img src="imgs/experimental_result_3.png" width="400"/><div>
+<p align="center">
+  <img src="imgs/experimental_result_1.png" width="300"/>
+  <img src="imgs/experimental_result_5.png" width="300"/>
+  <img src="imgs/experimental_result_3.png" width="300"/>
+</p>
 
 
 ### 🎯 Outcome
