@@ -4,11 +4,8 @@
 
 # Motion-Blurred Object Detection
 
-**Politecnico di Milano** — *IACV Course Project*
-**Project Topic F09:** Object detection in motion-blurred images
-
-🔗 [Course Website](https://magrilu.github.io/iacv/)
-📄 [Related Paper](https://link.springer.com/article/10.1007/s11263-008-0165-1)
+**Politecnico di Milano** — *IACV Course Project* <br>
+**Project Topic :** Object detection in motion-blurred images
 
 ---
 
